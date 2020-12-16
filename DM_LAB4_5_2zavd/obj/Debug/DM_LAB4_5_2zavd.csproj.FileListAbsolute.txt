@@ -1,0 +1,11 @@
+E:\lpnu\Дискретна математика\Лабораторні\4_5\DM_LAB4_5_2zavd\DM_LAB4_5_2zavd\obj\Debug\DM_LAB4_5_2zavd.csprojAssemblyReference.cache
+E:\lpnu\Дискретна математика\Лабораторні\4_5\DM_LAB4_5_2zavd\DM_LAB4_5_2zavd\obj\Debug\DM_LAB4_5_2zavd.csproj.CoreCompileInputs.cache
+E:\lpnu\Дискретна математика\Лабораторні\4_5\DM_LAB4_5_2zavd\DM_LAB4_5_2zavd\bin\Debug\DM_LAB4_5_2zavd.exe.config
+E:\lpnu\Дискретна математика\Лабораторні\4_5\DM_LAB4_5_2zavd\DM_LAB4_5_2zavd\bin\Debug\DM_LAB4_5_2zavd.exe
+E:\lpnu\Дискретна математика\Лабораторні\4_5\DM_LAB4_5_2zavd\DM_LAB4_5_2zavd\bin\Debug\DM_LAB4_5_2zavd.pdb
+E:\lpnu\Дискретна математика\Лабораторні\4_5\DM_LAB4_5_2zavd\DM_LAB4_5_2zavd\obj\Debug\DM_LAB4_5_2zavd.exe
+E:\lpnu\Дискретна математика\Лабораторні\4_5\DM_LAB4_5_2zavd\DM_LAB4_5_2zavd\obj\Debug\DM_LAB4_5_2zavd.pdb
+E:\lpnu\Дискретна математика\Лабораторні\4_5\DM_LAB4_5_2zavd\DM_LAB4_5_2zavd\bin\Debug\DM_LAB4_5_2zavd.exe.manifest
+E:\lpnu\Дискретна математика\Лабораторні\4_5\DM_LAB4_5_2zavd\DM_LAB4_5_2zavd\bin\Debug\DM_LAB4_5_2zavd.application
+E:\lpnu\Дискретна математика\Лабораторні\4_5\DM_LAB4_5_2zavd\DM_LAB4_5_2zavd\obj\Debug\DM_LAB4_5_2zavd.exe.manifest
+E:\lpnu\Дискретна математика\Лабораторні\4_5\DM_LAB4_5_2zavd\DM_LAB4_5_2zavd\obj\Debug\DM_LAB4_5_2zavd.application
